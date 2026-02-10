@@ -26,11 +26,13 @@
   "resources":[
     {"id":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},},
+    {"id":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_backGroung","path":"sprites/spr_backGroung/spr_backGroung.yy",},},
     {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},},
+    {"id":{"name":"spr_collision","path":"sprites/spr_collision/spr_collision.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
   ],
   "resourceType":"GMProject",
