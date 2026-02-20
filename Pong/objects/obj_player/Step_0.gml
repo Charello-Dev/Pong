@@ -1,9 +1,11 @@
 /// @description player movement
 
-	if  (keyboard_check(ord("W")) && y > 75) {
+	y = clamp(y, 75, 324);
+
+	if  (keyboard_check(ord("W"))) {
 		y -= vel;
 	}
 
-	if (keyboard_check(ord("S")) && y < 324) {
+	if (keyboard_check(ord("S"))) {
 		y += vel;
 	}

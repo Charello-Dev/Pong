@@ -1,2 +1,6 @@
+///@description collision with player
+
+global.pongs++;
+
 move_bounce_solid(true);
 speed += 0.5;
